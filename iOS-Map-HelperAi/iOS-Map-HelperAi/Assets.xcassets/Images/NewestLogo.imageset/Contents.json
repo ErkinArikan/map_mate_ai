@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Untitled Design-fotor-bg-remover-20250113174914.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Untitled Design-fotor-bg-remover-20250113174914@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Untitled Design-fotor-bg-remover-20250113174914@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
