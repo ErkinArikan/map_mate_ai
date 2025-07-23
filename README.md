@@ -101,8 +101,8 @@ Harita üzerinde işaretlenmiş konumlar + AI önerisi
 
 ## 📱 Yayında  
 
-- **App Store:** [👉 Şimdi İndir]([https://lnkd.in/dw_cq7py](https://apps.apple.com/tr/app/map-mateai-navigate-with-chat/id6740746255?l=tr))  
-- **Demo Videosu:** [🎥 İzle]([https://lnkd.in/dEjTX8BJ](https://www.youtube.com/watch?v=7dfwLjxD-sc&t=5s&ab_channel=Erkin))  
+- **App Store:** https://lnkd.in/dw_cq7py](https://apps.apple.com/tr/app/map-mateai-navigate-with-chat/id6740746255?l=tr
+- **Demo Videosu:** https://lnkd.in/dEjTX8BJ](https://www.youtube.com/watch?v=7dfwLjxD-sc&t=5s&ab_channel=Erkin
 
 ---
 
