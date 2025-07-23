@@ -93,5 +93,5 @@ Harita üzerinde işaretlenmiş konumlar + AI önerisi
 ⸻
 
 📱 Yayında
-	•	App Store: 👉 Şimdi İndir
-	•	Demo Videosu: 🎥 İzle
+	•	App Store: 👉 Şimdi İndir  https://apps.apple.com/tr/app/map-mateai-navigate-with-chat/id6740746255?l=tr
+	•	Demo Videosu: 🎥 İzle https://www.youtube.com/watch?v=7dfwLjxD-sc&t=5s&ab_channel=Erkin
